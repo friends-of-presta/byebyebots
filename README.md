@@ -10,7 +10,7 @@ Based on the pull request of Jean François Viguier, see here [his contribution]
 
 His contribution won't be available until 1.7.8, this module is available for every version from 1.6.0 to 1.7.7.
 
-Having a Community module is an efficient solution to don't rely on the Core team to get extra features/fixes.
+Having a Community module is an efficient solution while staying resilient to the Core team decisions to get extra features/fixes.
 
 ## I want to contribute !
 
